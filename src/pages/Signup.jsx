@@ -42,7 +42,7 @@ export default function Signup() {
     return (
       <div className="min-h-screen bg-stone-50 flex items-center justify-center px-4">
         <div className="bg-white rounded-2xl border border-stone-100 shadow-sm p-8 w-full max-w-lg">
-          <h1 className="text-xl font-semibold text-stone-900 mb-1">Join Local Experiences</h1>
+          <h1 className="text-xl font-semibold text-stone-900 mb-1">Join Popli</h1>
           <p className="text-sm text-stone-500 mb-8">I am a...</p>
 
           <div className="grid grid-cols-2 gap-4">

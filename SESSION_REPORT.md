@@ -1,4 +1,4 @@
-# Session Report — Local Experiences MVP
+# Session Report — Popli MVP
 
 ## What Was Built
 

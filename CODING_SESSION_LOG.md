@@ -1,4 +1,4 @@
-# Coding Session Log — Local Experiences MVP
+# Coding Session Log — Popli MVP
 
 **Date:** 7 March 2026
 **Agent:** Claude Sonnet 4.6 (Claude Code)
